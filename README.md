@@ -1,7 +1,7 @@
 # DMA2-Programming-with-predicates
 
 1. Install Prolog
-2. Download file "School.pl"
+2. Download file "student_calendar.pl"
 3. Run file through prolog cmd. 
 4. Execute following Queries: 
 	
