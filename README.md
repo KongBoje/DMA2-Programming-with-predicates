@@ -5,10 +5,10 @@
 3. Run file through prolog cmd. 
 4. Execute following Queries: 
 	
-  ´´´
-	?- student(bob)
-	´´´
+``
+?- student(bob)
+``
 	
-  ´´´
-  ?- place(mon,r1,c1,X). 
-  ´´´
+``
+?- place(mon,r1,c1,X). 
+``
