@@ -24,9 +24,9 @@ or
 When it runs you only get one student at the start, for it to run through the whole query you have to press ";" at the end of each student
 like this:
 
-``
+```
 ?- school(mon,r1,c1,X).
 X = bob ;
 X = max ;
 X = liz.
-``
+```
