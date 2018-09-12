@@ -26,7 +26,10 @@ like this:
 
 ``
 ?- school(mon,r1,c1,X).
+
 X = bob ;
+
 X = max ;
+
 X = liz.
 ``
