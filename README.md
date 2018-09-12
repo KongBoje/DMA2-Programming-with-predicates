@@ -6,7 +6,7 @@
 4. Execute following Queries: 
 	
 ``
-?- student(bob)
+?- student(bob).
 ``
 	
 ``
