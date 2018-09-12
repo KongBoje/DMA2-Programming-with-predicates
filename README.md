@@ -25,8 +25,8 @@ When it runs you only get one student at the start, for it to run through the wh
 like this:
 
 ``
-?- school(mon,r1,c1,X).<br>
-X = bob ;<br>
-X = max ;<br>
+?- school(mon,r1,c1,X)./n
+X = bob ;
+X = max ;
 X = liz.
 ``
