@@ -1,7 +1,7 @@
 # DMA2-Programming-with-predicates
 
 1. [Install Prolog](http://www.swi-prolog.org/download/stable)
-2. Download file "student_calendar.pl" from this repository
+2. Download file [student_calendar.pl](https://github.com/KongBoje/DMA2-Programming-with-predicates/blob/master/student_calendar.pl) from this repository
 3. Run file through prolog cmd. 
 
 - first you have to consult with the file like this:
