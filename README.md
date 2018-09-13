@@ -29,3 +29,5 @@ X = bob ;
 X = max ;
 X = liz.
 ```
+
+#### It's a very simple solution and could get improved a lot more, but this is how it is atm.
